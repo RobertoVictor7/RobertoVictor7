@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estou estudando ReactJS, NextJS e TypeScript 
+- 🎓 Analise e Desenvolvimento de Sistemas 4/4 
 - 📫 Contate-me no email: robertovictor0702@gmail.com
 - 😄 Pronouns: ele/dele 
 
