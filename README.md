@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Victor Roberto 😊
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Atualmente trabalho com Salesforce Front-End 
 - 🌱 Estou estudando ReactJS, NextJS e TypeScript 
-- 🎓 Analise e Desenvolvimento de Sistemas 4/4 
-- 📫 Contate-me no email: robertovictor0702@gmail.com
+- 🎓 Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele 
 
 ##
