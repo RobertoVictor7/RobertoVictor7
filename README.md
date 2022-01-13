@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Roberto 😊
 
 - 🔭 Atualmente trabalho com Salesforce Front-End 
-- 🌱 Estou estudando ReactJS, NextJS e TypeScript 
+- 🌱 Estou estudando ReactJS, NextJS, NodeJS e TypeScript 
 - 🎓 Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele 
 
