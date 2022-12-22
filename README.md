@@ -1,9 +1,8 @@
-## Olá! Eu sou o Victor Roberto 😊
+## Hi! I am Victor Roberto 😊
 
-- 🔭 Atualmente trabalho com Salesforce Front-End 
-- 🌱 Estou estudando ReactJS, NextJS, NodeJS e TypeScript 
+- 💼 Actualy i work with Salesforce Commerce Cloud Development
+- 👨🏻‍💻 My main skills are Javascript, HTML, ISML, CSS, SASS and NodeJS 
 - 🎓 Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele 
 
 ##
 
