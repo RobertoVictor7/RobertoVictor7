@@ -1,8 +1,9 @@
 ## Hi! I am Victor Roberto 😊
 
 - 💼 Actualy i work with Salesforce Commerce Cloud Development
-- 👨🏻‍💻 My main skills are Javascript, HTML, ISML, CSS, SASS and NodeJS 
-- 🎓 Analise e Desenvolvimento de Sistemas
+- 👨🏻‍💻 My main skills are Javascript | HTML | ISML | CSS | SASS | NodeJS 
+- 💬 Portuguese/English
+- 🎓ReactJS | VueJS | Docker 
 
 ##
 
