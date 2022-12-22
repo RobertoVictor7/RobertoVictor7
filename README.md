@@ -2,7 +2,7 @@
 
 - 💼 Actualy i work with Salesforce Commerce Cloud Development
 - 👨🏻‍💻 My main skills are Javascript | HTML | ISML | CSS | SASS | NodeJS 
-- 💬 Portuguese/English
+- 💬 Portuguese | English
 - 🎓ReactJS | VueJS | Docker 
 
 ##
