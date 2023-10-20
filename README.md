@@ -3,7 +3,7 @@
 - 💼 Software Developer and Salesforce Developer
 - 👨🏻‍💻 Javascript | ReactJS | SASS | NodeJS | Salesforce | SFCC
 - 💬 Portuguese | English
-- 🎓  NodeJS | Salesforce Apex | Docker
+- 🎓  TypeScript | Salesforce Apex | Docker
 
 ##
 
