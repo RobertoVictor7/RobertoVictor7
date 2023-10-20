@@ -1,9 +1,17 @@
 ## Hi! I am Victor Roberto 😊
 
-- 💼 Software Developer and Salesforce Developer
-- 👨🏻‍💻 Javascript | ReactJS | SASS | NodeJS | Salesforce | SFCC
-- 💬 Portuguese | English
-- 🎓  TypeScript | Salesforce Apex | Docker
+<div style="display: inline-block"> 
+   <div>
+      <ul >
+         <li style="list-style: none">💼 Software Developer and Salesforce Developer</li> 
+         <li style="list-style: none">👨🏻‍💻 Javascript | ReactJS | SASS | NodeJS | Salesforce | SFCC</li> 
+         <li style="list-style: none">💬 Portuguese | English</li>
+         <li style="list-style: none">🎓  TypeScript | Salesforce Apex | Docker</li> 
+      </ul>
+     
+   </div>
+   <img height="300" src= "https://github.com/RobertoVictor7/RobertoVictor7/assets/78868541/c79a1f1e-adcd-4071-b246-aced6a0616c4"/>
+</div>   
 
 ##
 
@@ -32,4 +40,5 @@
   <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
           
 </div>
+
 
